@@ -1,2 +1,14 @@
+<<<<<<< HEAD
 streamlit==1.49.1
 requests==2.32.5
+streamlit
+pandas
+requests
+plotly
+numpy
+python-dotenv
+
+=======
+streamlit==1.49.1
+requests==2.32.5
+>>>>>>> 7938b94ff1d9052d52bb8f989b3166431e2bfc52

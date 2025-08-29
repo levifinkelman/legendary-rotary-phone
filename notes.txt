@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Bitcoin Portfolio Simulation Notes
 ----------------------------------
@@ -8,3 +9,6 @@ Bitcoin Portfolio Simulation Notes
     • Add historical price chart
     • Integrate real-time BTC data via CoinGecko or Alpha Vantage
     • Simulate dollar-cost averaging (DCA) strategies
+=======
+
+>>>>>>> 7938b94ff1d9052d52bb8f989b3166431e2bfc52
