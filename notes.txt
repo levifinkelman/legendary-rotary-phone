@@ -1,0 +1,10 @@
+
+Bitcoin Portfolio Simulation Notes
+----------------------------------
+- Initial investment is user-defined.
+- BTC price can be updated manually or linked to an API.
+- Metrics include current value, profit/loss, and ROI.
+- Future enhancements:
+    • Add historical price chart
+    • Integrate real-time BTC data via CoinGecko or Alpha Vantage
+    • Simulate dollar-cost averaging (DCA) strategies
